@@ -1,2 +1,2 @@
 # go-chi-template
-Template repository for simple golang chi server.
+Template repository for a simple golang chi server. Dockerized and ready for deployment.
